@@ -1,5 +1,5 @@
 ---
-title: Test page
+title: Test page!
 summary: This is the summary
 ---
 
